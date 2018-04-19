@@ -1,0 +1,16 @@
+body  {
+	text-align: center;
+	background-color: silver;
+}
+img {
+	width: 400px;
+	height: 300px;
+	margin-bottom: 40px;
+}
+li {
+	list-style-type: none;
+}
+h1 {
+	text-align: center;
+	letter-spacing: 2px;
+}
